@@ -5,6 +5,7 @@ This is a project for my [Advanced Algorithms course](http://www.cs.columbia.edu
 
 The written C code for the project is in the [tabulation_project branch](https://github.com/Ana06/ruby/compare/master...Ana06:tabulation_project) of my fork of the Ruby project (MRI) in GitHub.
 
+Ruby issue: https://bugs.ruby-lang.org/issues/16851
 
 ## Results
 
@@ -23,6 +24,7 @@ Below are the times (in seconds) I got executing this code for different version
 I tried with 8 x Intel i5-8265U.
 
 This prove the potential of Simple Tabulation to improve current Ruby implementation.
+For more details check the project report: [latex/RubyTabulation_Project.pdf](latex/RubyTabulation_Project.pdf).
 
 
 ## License
